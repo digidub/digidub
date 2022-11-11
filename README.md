@@ -1,3 +1,5 @@
+Note: This account is no longer active, I am using @alexbrokethis for my work at @SecclTech
+
 ### Hi there 👋
 
 Hi, I'm [`Alex`](https://alexcodes.co.uk), a highly-driven self-taught web developer. I started learning in 2020 and haven't looked back. You can view what I've been building in my repositories!
